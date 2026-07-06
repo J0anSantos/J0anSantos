@@ -12,7 +12,8 @@ My name is Joan, and I'm an aspiring DevOps Engineer from Brazil.<br><br>I was a
 ![](https://streak-stats.demolab.com/?user=J0anSantos&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=J0anSantos&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=J0anSantos&icon=0&color=0)](https://visitcount.itsvg.in)
+# Latest Important Certificates
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://www.credly.com/earner/earned/badge/f44ccbeb-897c-4033-bb0a-32f9907a96ca" target="_blank">
+  <img src="https://i.postimg.cc/bYF9qDss/image.png" height="105"/>
+</a>
